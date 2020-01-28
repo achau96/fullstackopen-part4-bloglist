@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+    "title": "The New Blog",
+    "author": "Austin Chau",
+    "url": "https://achau96.github.io/",
+    "likes": "5"
+}
+
